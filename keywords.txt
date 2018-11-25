@@ -1,0 +1,12 @@
+keyword,synonym
+storm,storm_;_storm;hurricane
+wind,wind_;gale
+rain,rain_
+snow,snow_
+hail,hail_
+flood,flood_
+road,bridge
+collapse
+ingury,injur_
+disrupt,disrupt_
+forecast,barometer;temperature;precipitation;fall_
